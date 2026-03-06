@@ -12,6 +12,3 @@ Technologies Used: Python (Pandas, Seaborn), SQL, Tableau, Excel.
 Project List:
 Task 1: [Task Name] - Exploratory Data Analysis and Cleaning.
 
-Task 2: [Task Name] - Data Visualization and Dashboarding.
-
-Task 3: [Task Name] - Predictive Modeling/Trend Analysis."
