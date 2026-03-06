@@ -10,5 +10,5 @@ Duration: February 2026 – March 2026
 Technologies Used: Python (Pandas, Seaborn), SQL, Tableau, Excel.
 
 Project List:
-Task 1: [Task Name] - Exploratory Data Analysis and Cleaning.
+Task 1: Exploratory Data Analysis and Cleaning.
 
